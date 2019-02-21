@@ -1,21 +1,22 @@
-# lianjia-spider
 目录树：
+
+```
 lianjia-spider
 ├── bj_links.xlsx
 ├── bj_results.xlsx
 ├── font
-│   └── msyh.ttf
+│   └── msyh.ttf
 ├── lianjia_data.ipynb
 ├── map
-│   └── json
-│       └── province
-│           └── beijing.json
+│   └── json
+│       └── province
+│           └── beijing.json
 ├── mask.jpg
 ├── proxy.txt
 ├── stopword
-│   └── 停用表.txt
+│   └── 停用表.txt
 └── word.jpg
-
+```
 
 ★★★★★
 
@@ -38,4 +39,3 @@ requests、re、BeautifulSoup、numpy、pandas、matplotlib、seaborn、jieba、
 7.stopword停用表，过滤分词时的无意义文字。
 
 8.词云图生成的文件为word.jpg。
-
