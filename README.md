@@ -32,7 +32,7 @@ requests、re、BeautifulSoup、numpy、pandas、matplotlib、seaborn、jieba、
 
 2.msyh.ttf为微软雅黑字体。
 
-3.lianjia_data文件是botebook主文件。
+3.lianjia_data文件是notebook主文件。
 
 4.map地图只有北京市。
 
