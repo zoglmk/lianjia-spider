@@ -1,6 +1,6 @@
 # lianjia-spider
 ## Python 课程结课作业
-### 本人小白，大佬可忽略
+
 
 目录树：
 
